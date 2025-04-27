@@ -1,5 +1,6 @@
 # Zomato-Data-Analysis
 This project involves exploratory data analysis (EDA) of Zomato restaurant data to uncover insights about restaurants, customer preferences, cuisine types, ratings, and cost patterns.
+
 Objectives:
  Clean and preprocess raw Zomato data.
  Explore restaurant ratings, cuisines, and city-wise distributions.
